@@ -1,0 +1,10 @@
+delete from Customer_name;
+delete from Apt_#;
+delete from Product_name;
+delete from Product_price;
+delete from #_Purchased;
+insert into Customer_name values ('Joseph Anthony', 'Yolanda Burns', 'Frances Jordan', 'Steve Miller', 'Cho Lin');
+insert into Apt # values ('1125', '3221', '1138', '2221', '2239');
+insert into Product_name values ('Orange juice', 'Bread loaf', 'Milk', 'Candy bar', 'Gum');
+insert into Product_price values ('4.59', '2.29', '3.67', '1.19', '.99', '2.29');
+insert into # Purchased values ('1', '2', '3');

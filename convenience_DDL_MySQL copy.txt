@@ -1,0 +1,14 @@
+drop table Customer_name;
+drop table Apt_#;
+drop table Product_name;
+drop table Product_price;
+drop table #_Purchased;
+
+
+create table Customer_name
+	(building		varchar(15),
+	 room_number		varchar(7),
+	 capacity		numeric(4,0),
+	 primary key (building, room_number)
+	);
+
